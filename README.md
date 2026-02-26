@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-█████╗ ██████╗ ██████╗ ██╗   ██╗██╗      ██████╗  █████╗ ██████╗ ██╗
-██╔══██╗██╔══██╗██╔══██╗██║   ██║██║     ██╔══██╗██╔══██╗██╔══██╗██║
-███████║██████╔╝██║  ██║██║   ██║██║     ██████╔╝███████║██████╔╝██║
-██╔══██║██╔══██╗██║  ██║██║   ██║██║     ██╔══██╗██╔══██║██╔══██╗██║
-██║  ██║██████╔╝██████╔╝╚██████╔╝███████╗██████╔╝██║  ██║██║  ██║██║
-╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚══════╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=220&section=header&text=Hi%20There!%20I'm%20Abdul%20Bari%20👋&fontSize=42&fontAlignY=36&desc=Fullstack%20Developer%20%7C%20Crafting%20Scalable%20Web%20Experiences&descSize=18&descAlignY=57&animation=scaleIn&fontColor=ffffff&stroke=ffffff&strokeWidth=1" width="100%"/>
 
 ### Fullstack Developer · India 🇮🇳
 
